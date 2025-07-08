@@ -10,5 +10,5 @@ setuptools.setup(
   url = 'https://github.com/luyiming/ipyprompt',
   keywords = ['ipython', 'jupyter', 'extension'],
   classifiers = [],
-  install_requires = ['colorama>=0.4'],
+  install_requires = ['ipython>=8.0'],
 )
